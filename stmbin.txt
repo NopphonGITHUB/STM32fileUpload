@@ -1,4 +1,4 @@
 {
-"link": "https://github.com/NopphonGITHUB/STM32fileUpload/blob/main/firmware.bin",
+"link": "https://raw.githubusercontent.com/NopphonGITHUB/STM32fileUpload/main/firmware.bin",
 "Mandatory": false
 }
