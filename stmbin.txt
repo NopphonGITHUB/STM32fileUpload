@@ -1,5 +1,5 @@
 {
-  "link": "https://raw.githubusercontent.com/NopphonGITHUB/STM32fileUpload/main/blink_4.bin",  
+  "link": "https://raw.githubusercontent.com/NopphonGITHUB/STM32fileUpload/main/STM32F103_output_pin_ALL.bin",  
   "Mandatory": true,
   "sw" :3.0
   }
