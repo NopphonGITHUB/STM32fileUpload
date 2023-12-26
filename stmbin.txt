@@ -1,5 +1,5 @@
 {
-  "link": "https://raw.githubusercontent.com/NopphonGITHUB/STM32fileUpload/main/ARDUINO_IDE.bin",  
+  "link": "https://raw.githubusercontent.com/NopphonGITHUB/STM32fileUpload/main/blink_5.bin",  
   "Mandatory": true,
   "sw" :3.0
   }
